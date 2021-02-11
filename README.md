@@ -1,0 +1,1 @@
+# gatsby-typescript-jest-sassmodules-baseproject
